@@ -45,7 +45,13 @@ This project involves creating a custom Amazon Support Bot using the GPT-3 langu
 ### 7. Inference
 
 - The fine-tuned GPT-3 model is used for inference in the Amazon Support Bot.
-- Given a prompt like "Is this louder/quiter than the HWM450? Does it need to be cleaned more often? ->", the model generates relevant and accurate responses.
+```python
+prompt = "Is this louder/quiter than the HWM450? Does it need to be cleaned more often? ->"
+```
+- Above prompt will result in following response
+```python
+"I think they are about the same, and it does not need to be cleaned\n"
+```
 
 ## Conclusion
 
@@ -63,5 +69,3 @@ I'm open to collaboration and would be happy to connect!
 
 
 Mir Abdullah Yaser
-
-Artificial Intelligence Engineer
