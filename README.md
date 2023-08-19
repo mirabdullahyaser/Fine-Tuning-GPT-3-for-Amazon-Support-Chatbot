@@ -61,7 +61,7 @@ This project demonstrates the process of creating a custom Amazon Support Bot us
 
 If you have any questions, suggestions, or would like to discuss this project further, feel free to get in touch with me:
 
-- [Email](mirabdullahyaser@gmail.com)
+- [Email](mailto:mirabdullahyaser@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mir-abdullah-yaser/)
 
 I'm open to collaboration and would be happy to connect!
